@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8Boolean", "P8Boolean\P8Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9IfElse", "P9IfElse\P9IfElse.csproj", "{EFF097E9-60CF-4F6E-8D1A-8C98E35B4B56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11IfElse", "P11IfElse\P11IfElse.csproj", "{3F385AF1-A7E8-43A8-ACD3-15D2736CA5C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{EFF097E9-60CF-4F6E-8D1A-8C98E35B4B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFF097E9-60CF-4F6E-8D1A-8C98E35B4B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFF097E9-60CF-4F6E-8D1A-8C98E35B4B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F385AF1-A7E8-43A8-ACD3-15D2736CA5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F385AF1-A7E8-43A8-ACD3-15D2736CA5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F385AF1-A7E8-43A8-ACD3-15D2736CA5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F385AF1-A7E8-43A8-ACD3-15D2736CA5C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

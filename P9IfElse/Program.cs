@@ -17,3 +17,19 @@ else
 
 Console.WriteLine($"you are a {agegroup}" );
 
+Console.WriteLine("Enter another integer");
+int anotherNumber = int.Parse(Console.ReadLine()); 
+
+int greaterNumber = Math.Max(age, anotherNumber);
+Console.WriteLine($"The greater number is: {greaterNumber}");
+
+string evenOrOdd = (greaterNumber % 2 == 0) ? "even" : "odd";
+Console.WriteLine($"The greater number is an {evenOrOdd} number");
+
+
+
+
+
+
+
+
