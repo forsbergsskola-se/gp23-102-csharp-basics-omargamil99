@@ -32,4 +32,3 @@ Console.WriteLine($"The greater number is an {evenOrOdd} number");
 
 
 
-
